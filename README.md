@@ -1,2 +1,2 @@
 # loop-speeds
-Just a set of for loops in different languages
+Just a set of loops in different languages
